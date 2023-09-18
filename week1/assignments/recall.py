@@ -14,6 +14,8 @@ class Recall:
     def addTuple(self, new):
         self.data.append(new)
 
+    def tupleConversion(self):
+        self.data = tuple(self.data)
 
 newList = Recall()
 newList.addNumber(77)
@@ -21,4 +23,7 @@ newList.addString("Firefighting is a passion of mine.")
 newList.addDictionary({"profession": "Firefighter"})
 newList.addTuple(("new fire", "hard work ahead"))
 
+print(newList.data)
+
+newList.tupleConversion()
 print(newList.data)
