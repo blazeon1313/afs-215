@@ -10,6 +10,8 @@ def pepsicoke(num):
             return 'Pepsi'
         elif num % 5 == 0:
             return 'Coke'
+        elif num == 8:
+            return 'failed'
 
 
 pepsicoke(1)
@@ -17,3 +19,4 @@ pepsicoke(2)
 pepsicoke(3)
 pepsicoke(5)
 pepsicoke(15)
+pepsicoke(8)

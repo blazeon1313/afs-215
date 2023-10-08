@@ -49,3 +49,9 @@ def test_seven():
     soda = pepsicoke(15)
     print(soda)
     assert soda == 'PepsiCoke'
+
+# show failed test
+def test_fail():
+    soda = pepsicoke(8)
+    print(soda)
+    assert soda == 'failed'
