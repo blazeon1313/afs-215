@@ -1,7 +1,4 @@
 const expect = require('chai').expect
-const calculator = require('../lib/calculator')
-
-
 
 function calculator(num1, num2, operator){
     if (typeof num1 != 'number' || typeof num2 != 'number'){
