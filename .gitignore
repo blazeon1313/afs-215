@@ -1,3 +1,24 @@
 
 week1/foldersetup.jpg
 week1/week1slack.jpg
+week2/week2slack.jpg
+week2/assignments/pytest/test_class_demo.py
+week2/assignments/pytest/test_class.py
+week2/assignments/pytest/test_sample.py
+week2/assignments/pytest/test_sysexit.py
+week2/assignments/pytest/test_tmpdir.py
+week2/assignments/pytest/__pycache__/test_class_demo.cpython-311-pytest-7.4.2.pyc
+week2/assignments/pytest/__pycache__/test_class.cpython-311-pytest-7.4.2.pyc
+week2/assignments/pytest/__pycache__/test_sample.cpython-311-pytest-7.4.2.pyc
+week2/assignments/pytest/__pycache__/test_sysexit.cpython-311-pytest-7.4.2.pyc
+week2/assignments/pytest/__pycache__/test_tmpdir.cpython-311-pytest-7.4.2.pyc
+week2/assignments/setuptest/main.py
+week2/assignments/setuptest/testcar.py
+week2/assignments/setuptest/.idea/.gitignore
+week2/assignments/fizzbuzz/.idea/fizzbuzz.iml
+week2/assignments/setuptest/.idea/misc.xml
+week2/assignments/setuptest/.idea/modules.xml
+week2/assignments/setuptest/.idea/setuptest.iml
+week2/assignments/setuptest/.idea/vcs.xml
+week2/assignments/setuptest/.idea/inspectionProfiles/profiles_settings.xml
+week2/assignments/setuptest/__pycache__/testcar.cpython-311-pytest-7.4.2.pyc
