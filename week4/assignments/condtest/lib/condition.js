@@ -6,10 +6,10 @@ function cond(num){
         return 'Not a valid number'
     }
     else if (num === 1){
-        return 1
+        return "1"
     }
     else if (num === 2){
-        return 2
+        return "2"
     }
     else if (num % 3 == 0){
         return "Good Morning"
@@ -28,4 +28,4 @@ function cond(num){
     }
 }
 
-module.exports = { cond }
+module.exports = cond 

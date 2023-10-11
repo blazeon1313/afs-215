@@ -3,11 +3,11 @@ const cond = require('../lib/condition')
 
 
 it('return "1" when passed a "1"', function(){
-    expect(cond(1)).to.equal(1)
+    expect(cond(1)).to.equal("1")
 })
 
 it('return "2" when passed a "2"', function(){
-    expect(cond(2)).to.equal(2)
+    expect(cond(2)).to.equal("2")
 })
 
 it('return "Good Morning" when passed a "3"', function(){
